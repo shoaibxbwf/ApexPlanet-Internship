@@ -1,7 +1,7 @@
 # 🌐 Web Development Internship Project  
 **Internship Organization:** Apexplanet Internship  
 **Internship Duration:** 45 Days  
-**Intern:** [Your Full Name]
+**Intern:** [MOHAMMAD AMIR SHOAIB]
 
 ---
 
